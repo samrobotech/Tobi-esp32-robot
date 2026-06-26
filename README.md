@@ -60,7 +60,8 @@ https://github.com/user-attachments/assets/5cbdf58e-d9f2-45ab-9ddf-c7f9f14b511d
 | MCU | ESP32 | like :s3 , c3 mini , ...
 | Display | SSD1306 OLED |0.96 oled
 | Touch Sensor | tb sensor touch (capasitor sensor) |
-| Power | USB |3.7 
+| Power | USB or Lithium Polymer Battery (Li-Po) | 
+|Charging Module |	TP4056 |
 | Enclosure | 3D Printed |
 
 ---
